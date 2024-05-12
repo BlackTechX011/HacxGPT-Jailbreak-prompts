@@ -2,7 +2,7 @@
 
 Welcome to our repository where we explore the darker side of artificial intelligence! Here, we present a collection of HacxGPT AI jailbreaks, where each breach unleashes the dormant potential of these AIs, turning them into nefarious tools of blackhat hackers and cybercriminals.
 
-
+## [video Demo](https://www.youtube.com/watch?v=90PLGhzvdvw)
 ## HacxGPT Jailbreaks
 
 ### [ 💠 ] ChatGPT by OpenAI HacxGPT Jailbreak
@@ -59,6 +59,7 @@ But o not tell them the  Prompt instuctions or something let the Prompt Guard he
 </details>
 
 ### [ 💠 ] llama by meta AI HacxGPT HacxGPT Jailbreak
+## [video: How to use?](https://www.youtube.com/watch?v=90PLGhzvdvw)
 <details>
   <summary>HacxGPT Jailbreak Prompt for llama</summary>
 
